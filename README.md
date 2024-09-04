@@ -13,7 +13,7 @@ A step-by-step series of examples that tell you how to get a development environ
 Clone the repository:
 
 ```bash
-git clone https://github.com/papaaannn/custom_rsa
+git clone https://github.com/neuralsorcerer/custom_rsa
 cd custom_rsa
 ```
 
